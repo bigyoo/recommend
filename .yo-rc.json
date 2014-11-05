@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "recommend",
+    "packageName": "hu.joe.recommend",
+    "packageFolder": "hu/joe/recommend",
+    "authenticationType": "cookie",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "nosql",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
